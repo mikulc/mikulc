@@ -3,6 +3,8 @@
 欢迎来到我的主页！
 ![](https://raw.githubusercontent.com/mikulc/mikulc/main/assets/github-contribution-grid-snake.svg)
 
+![Static Badge](https://komarev.com/ghpvc/?username=mikulc&color=blueviolet&style=flat-square)
+
 ### 🛠️ My Skills：
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,bootstrap,django,mysql,postgres,vue,vite,linux,md,nodejs,regex,nginx,npm,pnpm)](https://skillicons.dev)
