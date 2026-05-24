@@ -11,7 +11,7 @@
 
 ### 💪 Currently Learning：
 
-[![My Skills](https://skillicons.dev/icons?i=git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,react)](https://skillicons.dev)
 
 ### 🧠 Learning Plan：
 
