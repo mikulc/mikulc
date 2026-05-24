@@ -7,7 +7,7 @@
 
 ### 🛠️ My Skills：
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,bootstrap,django,mysql,postgres,vue,vite,linux,md,nodejs,regex,nginx,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,bootstrap,django,mysql,postgres,vue,vite,linux,nodejs,nginx,npm,pnpm)](https://skillicons.dev)
 
 ### 💪 Currently Learning：
 
