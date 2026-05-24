@@ -15,7 +15,7 @@
 
 ### 🧠 Learning Plan：
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,react,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,ts,)](https://skillicons.dev)
 
 ### 🧰 Common Tools：
 
