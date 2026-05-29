@@ -8,18 +8,18 @@ Welcome to my homepage！
 
 ![Static Badge](https://komarev.com/ghpvc/?username=mikulc&color=blueviolet&style=flat-square)
 
-### 🛠️ My Skills：
+## 🛠️ My Skills：
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,bootstrap,django,mysql,postgres,vue,vite,linux,nodejs,nginx,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,django,mysql,postgres,vue,vite,linux,nodejs,nginx)](https://skillicons.dev)
 
-### 💪 Currently Learning：
+## 💪 Currently Learning：
 
 [![My Skills](https://skillicons.dev/icons?i=git,react)](https://skillicons.dev)
 
-### 🧠 Learning Plan：
+## 🧠 Learning Plan：
 
 [![My Skills](https://skillicons.dev/icons?i=go,c,cpp,ts,)](https://skillicons.dev)
 
-### 🧰 Common Tools：
+## 🧰 Common Tools：
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,webstorm,idea,github,vscode)](https://skillicons.dev)
