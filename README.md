@@ -1,6 +1,6 @@
 # 🙋Hello
 
-欢迎来到我的主页！
+Welcome to my homepage！
 ![](https://raw.githubusercontent.com/mikulc/mikulc/main/assets/github-contribution-grid-snake.svg)
 
 ![Static Badge](https://komarev.com/ghpvc/?username=mikulc&color=blueviolet&style=flat-square)
