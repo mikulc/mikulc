@@ -10,15 +10,15 @@ Welcome to my homepage！
 
 ## 🛠️ My Skills：
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,django,mysql,postgres,vue,vite,linux,nodejs,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,docker,js,html,css,mysql,postgres,vue,vite,linux,nodejs,nginx)](https://skillicons.dev)
 
 ## 💪 Currently Learning：
 
-[![My Skills](https://skillicons.dev/icons?i=git,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,git,react,ts)](https://skillicons.dev)
 
 ## 🧠 Learning Plan：
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ## 🧰 Common Tools：
 
